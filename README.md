@@ -9,6 +9,13 @@
 </p>
 
 ---
+## Reviewer Path
+
+1. Start with the Assessment Report for the executive-level story.
+2. Review the Risk Assessment & SoA to see risk scoring and ISO 27001 control decisions.
+3. Review the Control Evidence Tracker to see how each control was evaluated.
+4. Review the Nonconformity Log to see corrective action tracking.
+5. Review the Policy Suite to see the supporting governance framework.
 
 ### What I did
 
