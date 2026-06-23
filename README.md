@@ -31,7 +31,7 @@ I ran a full document based ISO 27001 audit simulation with risk assessment, SoA
 
 > **Start here:** the **[Evidence Index](Assessment/Evidence_Index.md)** puts the entire assessment on one screen — every finding mapped to its control, evidence, gap, risk, and fix.
 
-### Read the work — minus the acronyms
+### Read the work
 
 | Deliverable | What it actually does |
 | --- | --- |
