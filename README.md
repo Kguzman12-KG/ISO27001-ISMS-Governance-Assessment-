@@ -40,7 +40,7 @@ I ran a full document based ISO 27001 audit simulation with risk assessment, SoA
 | **[Risk Assessment & Statement of Applicability](Assessment/ISO27001_Risk_Assessment_and_SoA.xlsx)** | Every way things could go wrong, how bad each would be, and which of the 93 standard safeguards apply — with the reasoning. |
 | **[Control Evidence Tracker](Assessment/ISO27001_Control_Evidence_Tracker.xlsx)** | What's genuinely in place versus what's missing. |
 | **[Non-Conformity Log](Assessment/NonConformity_Log.xlsx)** | The official list of gaps — each with an owner and a path to "resolved." |
-| **[Technical Evidence](Technical-Evidence)** | Sample MFA, monitoring, and vulnerability reviews — how each finding is tested and concluded *(illustrative)*. |
+| **[Technical Evidence](TechnicalEvidence)** | Sample MFA, monitoring, and vulnerability reviews — how each finding is tested and concluded *(illustrative)*. |
 | **[Policy Suite (×11)](Policies)** | The rulebook the entire program runs on. |
 
 > 📊 **No download needed.** The spreadsheets are also published as **CSV** in the [`Assessment/`](Assessment) folder — GitHub renders them as sortable, searchable tables right in your browser.
