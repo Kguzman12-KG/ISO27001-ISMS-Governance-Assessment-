@@ -1,0 +1,31 @@
+2013 Control,2013 Title,2022 Control,2022 Title
+A.5.1.1 / A.5.1.2,Policies for information security,A.5.1,Policies for information security
+A.6.2.1,Mobile device policy,A.8.1,User endpoint devices
+A.6.2.2,Teleworking,A.6.7,Remote working
+A.8.1.1,Inventory of assets,A.5.9,Inventory of information and other associated assets
+A.8.1.2,Ownership of assets,A.5.9,Inventory of information and other associated assets (ownership consolidated)
+A.8.1.3,Acceptable use of assets,A.5.10,Acceptable use of information and other associated assets
+A.8.2.1,Classification of information,A.5.12,Classification of information
+A.8.2.2,Labelling of information,A.5.13,Labelling of information
+A.8.2.3,Handling of assets,A.5.10,Acceptable use of information and other associated assets
+A.8.3.2,Disposal of media,A.7.10 / A.8.10,Storage media / Information deletion
+A.9.1,Business requirement for access control,A.5.15,Access control
+A.9.2,User access management,A.5.16 / A.5.18,Identity management / Access rights
+A.9.3.1,Use of secret authentication information,A.5.17,Authentication information
+A.9.4,System and application access control,A.8.3 / A.8.5,Information access restriction / Secure authentication
+A.10.1.1,Policy on the use of cryptographic controls,A.8.24,Use of cryptography
+A.10.1.2,Key management,A.8.24,Use of cryptography
+A.11.2.6,Security of equipment and assets off-premises,A.7.9,Security of assets off-premises
+A.12.4.1 / A.12.4.3,Event logging / administrator and operator logs,A.8.15,Logging
+A.12.6.1,Management of technical vulnerabilities,A.8.8,Management of technical vulnerabilities
+A.15.1,Information security in supplier relationships,A.5.19 - A.5.21,Supplier relationships / agreements / ICT supply chain
+A.15.2,Supplier service delivery management,A.5.22,Monitoring review and change management of supplier services
+A.16.1.1,Responsibilities and procedures,A.5.24,Information security incident management planning and preparation
+A.16.1.2 / A.16.1.3,Reporting information security events / weaknesses,A.6.8,Information security event reporting
+A.16.1.4,Assessment of and decision on information security events,A.5.25,Assessment and decision on information security events
+A.16.1.5,Response to information security incidents,A.5.26,Response to information security incidents
+A.16.1.6,Learning from information security incidents,A.5.27,Learning from information security incidents
+A.16.1.7,Collection of evidence,A.5.28,Collection of evidence
+A.18.1.1,Identification of applicable legislation and contractual requirements,A.5.31,Legal statutory regulatory and contractual requirements
+A.18.1.2,Intellectual property rights,A.5.32,Intellectual property rights
+A.18.1.4,Privacy and protection of PII,A.5.34,Privacy and protection of PII
