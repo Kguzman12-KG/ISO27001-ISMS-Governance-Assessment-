@@ -52,7 +52,7 @@ I ran a full document based ISO 27001 audit simulation with risk assessment, SoA
 | **[Risk Assessment & Statement of Applicability](Assessment/ISO27001_Risk_Assessment_and_SoA.xlsx)** | Every way things could go wrong, how bad each would be, and which of the 93 standard safeguards apply — with the reasoning. |
 | **[Control Evidence Tracker](Assessment/ISO27001_Control_Evidence_Tracker.xlsx)** | What's genuinely in place versus what's missing. |
 | **[Non-Conformity Log](Assessment/NonConformity_Log.xlsx)** | The official list of gaps — each with an owner and a path to "resolved." |
-| **[2013 → 2022 Crosswalk](Assessment/2013%to%2022%Crosswalk.md)** | Every 2013 baseline control mapped to its 2022 equivalent — the transition map that ties the two layers together. |
+| **[2013 → 2022 Crosswalk](Assessment/2013-to-2022-Crosswalk.md)** | Every 2013 baseline control mapped to its 2022 equivalent — the transition map that ties the two layers together. |
 | **[Technical Evidence](Technical%20Evidence/)** | Sample MFA, monitoring, and vulnerability reviews — how each finding is tested and concluded *(illustrative)*. |
 | **[Policy Suite (×11)](Policies)** | The rulebook the entire program runs on. |
 
