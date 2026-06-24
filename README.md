@@ -17,7 +17,7 @@
 > - **Current-state baseline → ISO/IEC 27001:2013.** Northgate's existing ISMS — the 11 policies — is 2013-aligned, reflecting an organisation that certified under the 2013 standard. The policies therefore cite 2013 Annex A control numbers (e.g., A.16, A.9, A.10).
 > - **Assessment target → ISO/IEC 27001:2022.** The audit, Statement of Applicability, evidence tracker, and technical evidence assess readiness against the **current 2022 standard** and its 93 controls (e.g., 5.24–5.28, 8.16).
 >
-> Every 2013 baseline control is mapped to its 2022 equivalent in the **[2013 → 2022 Control Crosswalk](Assessment/2013-to-2022-Crosswalk.md)**. The gap against the **11 controls new in 2022** is the core finding of the engagement.
+> Every 2013 baseline control is mapped to its 2022 equivalent in the **[2013 → 2022 Control Crosswalk](2013%To%2022/2013-to-2022-Crosswalk.md)**. The gap against the **11 controls new in 2022** is the core finding of the engagement.
 
 ---
 
