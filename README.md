@@ -17,7 +17,7 @@
 > - **Current-state baseline → ISO/IEC 27001:2013.** Northgate's existing ISMS — the 11 policies — is 2013-aligned, reflecting an organisation that certified under the 2013 standard. The policies therefore cite 2013 Annex A control numbers (e.g., A.16, A.9, A.10).
 > - **Assessment target → ISO/IEC 27001:2022.** The audit, Statement of Applicability, evidence tracker, and technical evidence assess readiness against the **current 2022 standard** and its 93 controls (e.g., 5.24–5.28, 8.16).
 >
-> Every 2013 baseline control is mapped to its 2022 equivalent in the **[2013 → 2022 Control Crosswalk](2013-to-2022-Crosswalk.md)**. The gap against the **11 controls new in 2022** is the core finding of the engagement.
+> Every 2013 baseline control is mapped to its 2022 equivalent in the **[2013 → 2022 Control Crosswalk](Assessment/2013-to-2022-Crosswalk.md)**. The gap against the **11 controls new in 2022** is the core finding of the engagement.
 
 ---
 
@@ -31,7 +31,7 @@
 
 ### What I did
 
-I ran a full document based ISO 27001 audit simulation with risk assessment, SoA, evidence tracker, and corrective action plan of a (fictional) university: found where its data was exposed, scored each risk by the damage it could actually cause, and handed leadership a prioritized plan they could act on — plus the policy rulebook the whole program runs on. The work assesses a **2013-aligned ISMS for readiness against the ISO/IEC 27001:2022 update** — a transition gap analysis (see *Scope & versioning* above, and the [crosswalk](2013-to-2022-Crosswalk.md)).
+I ran a full document based ISO 27001 audit simulation with risk assessment, SoA, evidence tracker, and corrective action plan of a (fictional) university: found where its data was exposed, scored each risk by the damage it could actually cause, and handed leadership a prioritized plan they could act on — plus the policy rulebook the whole program runs on. The work assesses a **2013-aligned ISMS for readiness against the ISO/IEC 27001:2022 update** — a transition gap analysis (see *Scope & versioning* above, and the [crosswalk](Assessment/2013-to-2022-Crosswalk.md)).
 
 **At a glance:** &nbsp;`93 controls assessed`&nbsp; · &nbsp;`8 risks scored`&nbsp; · &nbsp;`5 findings (2 major)`&nbsp; · &nbsp;`11 policies authored`
 
@@ -52,7 +52,7 @@ I ran a full document based ISO 27001 audit simulation with risk assessment, SoA
 | **[Risk Assessment & Statement of Applicability](Assessment/ISO27001_Risk_Assessment_and_SoA.xlsx)** | Every way things could go wrong, how bad each would be, and which of the 93 standard safeguards apply — with the reasoning. |
 | **[Control Evidence Tracker](Assessment/ISO27001_Control_Evidence_Tracker.xlsx)** | What's genuinely in place versus what's missing. |
 | **[Non-Conformity Log](Assessment/NonConformity_Log.xlsx)** | The official list of gaps — each with an owner and a path to "resolved." |
-| **[2013 → 2022 Crosswalk](2013-to-2022-Crosswalk.md)** | Every 2013 baseline control mapped to its 2022 equivalent — the transition map that ties the two layers together. |
+| **[2013 → 2022 Crosswalk](Assessment/2013-to-2022-Crosswalk.md)** | Every 2013 baseline control mapped to its 2022 equivalent — the transition map that ties the two layers together. |
 | **[Technical Evidence](Technical%20Evidence/)** | Sample MFA, monitoring, and vulnerability reviews — how each finding is tested and concluded *(illustrative)*. |
 | **[Policy Suite (×11)](Policies)** | The rulebook the entire program runs on. |
 
